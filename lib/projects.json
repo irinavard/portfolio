@@ -1,74 +1,74 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
-        "year": "2021",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus, aperiam recusandae sed accusamus voluptate itaque corrupti. Unde atque voluptate omnis cumque eum, ducimus perferendis corporis quisquam, cupiditate, molestias sint tenetur!"
-    },
-    {
-        "title": "Cupiditate dolores asperiores natus.",
-        "year": "2022",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Repudiandae, voluptatem consequuntur nesciunt beatae aspernatur, fuga corporis sed quaerat accusantium numquam fugit, debitis a. Iure dicta reiciendis ad incidunt deserunt vitae fugit quidem. Corrupti incidunt et ut at eum."
-    },
-    {
-        "title": "Sunt nulla impedit esse.",
-        "year": "2023",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Non ipsam consequuntur sequi nobis pariatur iusto eligendi dolor unde culpa. Neque corrupti quisquam ipsam ullam soluta deserunt, consectetur odio aut voluptatum consequuntur amet, officiis itaque est iste ex. Aliquid?"
-    },
-    {
-        "title": "Voluptatem rerum quasi nobis.",
+        "title": "Image Processing Tool",
         "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Qui, suscipit quas iure odio, beatae laboriosam magnam sunt magni consequuntur libero voluptate blanditiis sit dolorum aliquid fugit, animi similique architecto reprehenderit rem. Autem libero unde perferendis reprehenderit sunt! Odio!"
+        "description": "Created a machine learning tool using KNN to classify images by similarity to training data with 92% accuracy."
     },
     {
-        "title": "Sunt dolor assumenda ea.",
-        "year": "2025",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Iure non amet, nemo assumenda dignissimos vel nulla. Rem consequatur enim, nostrum earum eius quam, inventore blanditiis totam modi quibusdam dicta aliquam laborum aut cum veritatis ipsum quo voluptate corrupti."
-    },
-    {
-        "title": "Sed doloribus iure aliquam!",
-        "year": "2026",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Harum aliquam quas, quis modi maxime hic suscipit molestiae, distinctio, officia non dolores reprehenderit enim beatae tempore maiores nihil quisquam repellat iusto amet quibusdam nisi! A distinctio dicta architecto suscipit!"
-    },
-    {
-        "title": "Voluptas illo eligendi consequatur!",
-        "year": "2021",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Perspiciatis, veniam. Similique omnis iste qui consequatur deleniti vero, id, veritatis corporis aliquam illum delectus voluptatum, laudantium placeat reprehenderit quam maxime minus dolore tempore. Atque quisquam vero animi facere dolores."
-    },
-    {
-        "title": "Ipsa ipsam reiciendis magni?",
-        "year": "2022",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Assumenda alias deleniti provident hic ipsam ad cum nulla blanditiis necessitatibus quo aut expedita ex obcaecati, sit maiores atque repudiandae. Facere exercitationem corrupti quis recusandae qui vel adipisci possimus error."
-    },
-    {
-        "title": "Veritatis quae ipsam commodi?",
-        "year": "2023",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Laudantium quam et adipisci odio pariatur ratione tempore voluptas earum distinctio eum nobis veniam deleniti totam, tenetur placeat nesciunt suscipit repellendus atque. Quae similique voluptatem quidem expedita, nesciunt voluptate. Dolorem?"
-    },
-    {
-        "title": "Necessitatibus quis distinctio fugit!",
+        "title": "Music Recommender and Lyric Searcher",
         "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Magni sed non atque itaque incidunt. Voluptas consectetur saepe amet, explicabo a, veniam non ipsam aliquid, nam minus quos hic quae quisquam accusamus exercitationem tempora possimus corrupti sapiente porro quibusdam!"
+        "description": "Built a song recommender using Euclidean distance to analyze musical metrics for personalized recommendations."
     },
     {
-        "title": "Molestias, asperiores error! Officia?",
+        "title": "Polarization Analysis in Western Democracies",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Analyzed polarization in Western democracies using randomized control trials and formal economic theory as part of UC San Diego's Economic Research Lab."
+    },
+    {
+        "title": "Public Opinion K-Means Clustering",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Performed K-means clustering on public-opinion data and evaluated validity with the Calinski-Harabasz index to identify patterns in political attitudes."
+    },
+    {
+        "title": "Political Attitudes Time-Series Analysis",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Examined year-over-year shifts in political and economic attitudes via correlation matrices, 95% confidence intervals, and time-series visualizations in Stata and Python from 2004 to 2019."
+    },
+    {
+        "title": "Lumnus Consulting Member Engagement",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Led data analytics efforts to surface insights and guide club strategy, automating member-list updates using Git and Python scripts to boost engagement."
+    },
+    {
+        "title": "AI Fitness Training Market Research",
         "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Eius inventore, nam nisi amet mollitia ad aspernatur rerum consequatur nemo dolorum autem dolorem sapiente, cupiditate molestiae. Dolor saepe repellat deserunt perferendis cupiditate. Alias optio quisquam dolorem explicabo rerum maxime."
+        "description": "Led a team of 5 in market research to assess the viability of AI-driven fitness training, analyzing TAM, SAM, and SOM by defining subsectors and collecting relevant industry and user data."
     },
     {
-        "title": "Reprehenderit ipsum possimus est!",
+        "title": "LLM Medical Note Generator",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Engineered and refined prompts for an LLM-based medical note generator, iterating based on clinician feedback and implementing adjustments within a 24-hour cycle to enhance accuracy."
+    },
+    {
+        "title": "UES Member Retention Analysis",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Analyzed data across 200+ members of the Undergraduate Economics Society to identify factors affecting engagement and retention, increasing previous quarter's turnout by 51.4%."
+    },
+    {
+        "title": "Deloitte Internship",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Engineered over 15 automated controls for a major adtech client, performing validation and integration testing on financial data exceeding $998 million in revenue."
+    },
+    {
+        "title": "Recruitment Campaign Visualization",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Utilized Python and Excel to produce visualizations identifying key areas for improvement in recruitment campaigns, outreach, and marketing tactics for the Undergraduate Economics Society."
+    },
+    {
+        "title": "Portfolio Website",
         "year": "2026",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Eligendi maxime, fugit autem unde, saepe ipsum quisquam deserunt, nihil aut ex eaque harum! Fuga, accusamus facere blanditiis possimus error dolorum et neque nam animi perferendis quas vel magnam placeat."
+        "description": "Built a personal portfolio website using HTML, CSS, and JavaScript featuring a responsive layout, dark mode, dynamic project rendering from JSON, and live GitHub stats from the GitHub API."
     }
 ]
