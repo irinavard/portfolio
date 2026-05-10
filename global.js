@@ -8,13 +8,14 @@ const BASE_PATH = (location.hostname === "localhost" || location.hostname === "1
   ? "/"
   : "https://irinavard.github.io/portfolio/"
 
-let pages = [
-  { url: '', title: 'Home' },
-  { url: 'projects/', title: 'Projects' },
-  { url: 'contact/', title: 'Contact' },
-  { url: 'cv/', title: 'CV' },
-  { url: 'https://github.com/irinavard', title: 'GitHub' },
-];
+  let pages = [
+    { url: '', title: 'Home' },
+    { url: 'projects/', title: 'Projects' },
+    { url: 'contact/', title: 'Contact' },
+    { url: 'cv/', title: 'CV' },
+    { url: 'meta/', title: 'Meta' },
+    { url: 'https://github.com/irinavard', title: 'GitHub' },
+  ];
 
 let nav = document.createElement('nav');
 document.body.prepend(nav);
