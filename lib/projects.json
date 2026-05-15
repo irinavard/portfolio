@@ -54,10 +54,11 @@
         "description": "Analyzed data across 200+ members of the Undergraduate Economics Society to identify factors affecting engagement and retention, increasing previous quarter's turnout by 51.4%."
     },
     {
-        "title": "Deloitte Internship",
-        "year": "2025",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Engineered over 15 automated controls for a major adtech client, performing validation and integration testing on financial data exceeding $998 million in revenue."
+        "title": "Bikewatching",
+        "year": "2026",
+        "image": "images/bikewatching.png",
+        "url": "https://irinavard.github.io/bikewatching/",
+        "description": "An interactive map visualization of bike traffic in the Boston area, showing BlueBike station activity and bike lanes across Boston and Cambridge with time-of-day filtering."
     },
     {
         "title": "Recruitment Campaign Visualization",
